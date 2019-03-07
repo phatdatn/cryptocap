@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {View, Text, Image, StyleSheet, ActivityIndicator} from 'react-native';
 import Img from './Img';
 
-/* Class that fetches data from CoinMarketCap API endpoint and renders individual screen
+/* Class that fetches data from CoinMarketCap's API endpoint and renders individual screen
 with a coin's price, market cap, and circulating supply.
 */
 export default class CoinScreen extends Component {

@@ -1,5 +1,6 @@
 /*
 @author Phat Dat Nguyen
+3/6/2019
 */
 import React, { Component } from "react";
 import {View, Text, StyleSheet, ActivityIndicator} from "react-native";

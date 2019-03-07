@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {Image} from "react-native";
 
-/* Object that when indexed into, gives path to coin images. */
+/* Object that once indexed into, gives path to coin images. */
 const IMG_URLS = {
   BTC:
     require("./img/btc_icon.png"),
