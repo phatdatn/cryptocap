@@ -1,5 +1,5 @@
 # cryptocap
-BitBroker coding challenge. React Native mobile application that fetches and displays data from CoinMarketCap.
+React Native mobile application that fetches and displays data from CoinMarketCap.
 
 To run this project:
 
